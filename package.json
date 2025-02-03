@@ -1,0 +1,13 @@
+{
+  "name": "odev-1",
+  "version": "1.0.0",
+  "description": "das ist ein Hausaufgabe",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idris",
+  "license": "ISC"
+}
